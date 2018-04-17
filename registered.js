@@ -43,5 +43,3 @@ function send(e) {
 // var data = JSON.stringify(account);
 // xhr.send(data);
 //----------------------------------------------------
-
-//登入
