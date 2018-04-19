@@ -29,6 +29,10 @@ function send(e) {
       }
 }
 
+document.getElementById('next').onclick = function(){
+  window.history.forward();
+  
+}
 
 //-------------------------------------------------
 //AJAX JSON

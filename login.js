@@ -32,3 +32,7 @@ function send(e) {
     }
 
 }
+
+document.getElementById('back').onclick = function(){
+    window.history.back();
+}
